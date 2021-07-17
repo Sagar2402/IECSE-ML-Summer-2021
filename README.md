@@ -18,11 +18,11 @@ Sets the email you want attached to your commit transactions:
 This will be required to be done for any github processes over the net. You have to do it only once.
 
 - Clone the IECSE ML Winter Project repository
-```git clone https://github.com/agastya2002/IECSE-ML-Winter-2020.git```
+```git clone https://github.com/sagar2402/IECSE-ML-Summer-2021.git```
 
 - Initialize a repository in the directory(this is just for information, you won't need this for any task) ```git init <Project Name>```
 
-- Type ```cd IECSE-ML-Winter-2020```
+- Type ```cd IECSE-ML-Summer-2021```
 
 - Create a new branch with your name using the command ```git checkout -b <branch-name>```, with branch name in format ```<full name with '-' for space>. eg.- git checkout -b John-Doe```
 
