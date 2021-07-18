@@ -69,14 +69,15 @@ Format - ```Task #<task-no.> : description```. Mention any errors or issues in t
 
 ### Creating your own branch
 ```
-git checkout -b [your-full-name] // no square brackets in actual command, use - for spaces
+git checkout -b [your-full-name-with-track-number] // no square brackets in actual command, use - for spaces
+eg: git checkout -b John-Doe-1
 ```
 ### Submitting your work
 ``` 
-git checkout [your-full-name]	// to make sure you are in your own branch
+git checkout [your-full-name-with-track-number]	// to make sure you are in your own branch
 git add .	// adds all files and subfolders to be committed in the current directory
 git commit -m "Task #0: description"
-git push origin John-Doe 
+git push origin John-Doe-1 
 ```
 
 ### Downloading the solutions once they are uploaded
