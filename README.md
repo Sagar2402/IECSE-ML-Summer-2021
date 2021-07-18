@@ -41,7 +41,8 @@ This will be required to be done for any github processes over the net. You have
 
 - Type ```cd IECSE-ML-Summer-2021```
 
-- Create a new branch with your name using the command ```git checkout -b <branch-name>```, with branch name in format ```<full name with '-' for space>. eg.- git checkout -b John-Doe```
+- Create a new branch with your name using the command ```git checkout -b <branch-name>```, with branch name in format ```<full name and track number 
+with '-' for space>. eg.- git checkout -b John-Doe-1 ;;;  if John Doe is from Track 1```
 
 - All commits should be made to your own branch, **Never commit to main.** To prevent this always check what branch you're on before committing any changes, command to check current branch ```git branch```, command to checkout(change to) a branch, ```git checkout <branch-name>```.
 
