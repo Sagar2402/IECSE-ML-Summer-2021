@@ -11,7 +11,7 @@ For <b>Track 1 : </b>first 3 weeks contains 2 courses that you need to complete 
 <br>https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
 <br>https://www.coursera.org/learn/deep-neural-network/home/welcome
 <br><b>These 2 courses are from deeplearning.ai for Track 1</b>.
-<br>For <b>Track 2 : </b>first 3 weeks will be 3 courses that they need to complete.<br>
+<br><br><br>For <b>Track 2 : </b>first 3 weeks will be 3 courses that they need to complete.<br>
 <br>https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science
 <br> https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science
 <br>https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science
@@ -62,7 +62,7 @@ Format - ```Task #<task-no.> : description```. Mention any errors or issues in t
  ```
  git config --global user.name "[name]"
  git config --global user.email "[email address]"
- git clone https://github.com/agastya2002/IECSE-ML-Winter-2020.git
+ git clone https://github.com/Sagar2402/IECSE-ML-Summer-2021.git
  cd IECSE-ML-Winter-2020
  ```
 
@@ -86,4 +86,4 @@ git pull origin main
 
 - All solutions will be uploaded to main.
 
-- All tasks will be posted on the [wiki](https://github.com/agastya2002/IECSE-ML-Winter-2020/wiki).
+- All tasks will be posted on the [wiki](https://github.com/Sagar2402/IECSE-ML-Summer-2021/wiki).
