@@ -3,6 +3,16 @@
 ## The Summer Domain Bootcamp for Machine Learning project of IECSE 2021
 
 **Instructions:**
+## Format and Tracks of Summer Bootcamp
+
+<br>
+The project is divided into 3 parts as 4 weeks of content. We have 2 tracks one for those who have done Winter bootcamp (Track 1) and one for those who are starting off with ML (Track 2). <br>
+For <b>Track 1 : </b>first 3 weeks contains 2 courses that you need to complete on Coursera and submit its code submission in your branch. <br>
+For <b>Track 2 : </b>first 3 weeks will be 3 courses that they need to complete.<br>
+For both the tracks the last week will have two projects that you need to submit. 
+Feel free to ask doubts, if any. 
+<br>
+Also make your submissions in your branch and not in main.<br> 
 
 ## Configure Tooling
 #### Configure user information for all local repositories
