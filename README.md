@@ -10,9 +10,12 @@ The project is divided into 3 parts as 4 weeks of content. We have 2 tracks one 
 For <b>Track 1 : </b>first 3 weeks contains 2 courses that you need to complete on Coursera and submit its Programming Assignment in your branch. <br>
 <br>https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
 <br>https://www.coursera.org/learn/deep-neural-network/home/welcome
-For <b>Track 2 : </b>first 3 weeks will be 3 courses that they need to complete.<br>
-<br>https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=gg&utm_medium=sem&campaignid=8985360908&utm_campaign=10-IBM-Data-Science-IN&utm_content=10-IBM-Data-Science-IN&adgroupid=86017337010&device=c&keyword=data%20science%20course%20coursera&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=412873341063&gclid=CjwKCAjw87SHBhBiEiwAukSeUVIdRCuNK6iPwR7ij7NS8LbvxXZ4y7AfOTVrDGsX_bv-PhJgd2e6FxoCptkQAvD_BwE#courses
-<br> Course 4,7 and 9 from the above link
+<br><b>These 2 courses are from deeplearning.ai for Track 1</b>.
+<br>For <b>Track 2 : </b>first 3 weeks will be 3 courses that they need to complete.<br>
+<br>https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science
+<br> https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science
+<br>https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science
+<br><b>These are course 4, 7, and 9 of IBM data science course for Track 2.</b>
 For both the tracks the last week will have two projects that you need to submit. 
 Feel free to ask doubts, if any. 
 <br>
