@@ -16,7 +16,7 @@ For <b>Track 1 : </b>first 3 weeks contains 2 courses that you need to complete 
 <br> https://www.coursera.org/learn/data-analysis-with-python?specialization=ibm-data-science
 <br>https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science
 <br><b>These are course 4, 7, and 9 of IBM data science course for Track 2.</b>
-For both the tracks the last week will have two projects that you need to submit. 
+<br><br><b>For both the tracks the last week will have two projects that you need to submit.</b> 
 Feel free to ask doubts, if any. 
 <br>
 Also make your submissions in your branch and not in main.<br> 
